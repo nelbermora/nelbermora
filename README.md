@@ -2,7 +2,7 @@
 - 👀 I’m in constantly learning and exploring new technologies
 - 📫 How to reach me https://www.linkedin.com/in/nelbermora/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelbermora&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelbermora,prs)
 
 <!---
 nelbermora/nelbermora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
